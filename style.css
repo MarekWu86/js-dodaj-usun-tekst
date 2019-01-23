@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image:url("100436132-concrete-polished-seamless-texture-background-aged-cement-backdrop-loft-style-gray-wall-surface-plas.jpg");
+}
+.container {
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#dodaj {
+    margin-right: 10px;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    background-color: #00BCD9;
+    color: white;
+}
+#usun {
+    margin-left: 10px;
+    width: 200px;
+    height: 50px;
+    font-size: 20px; 
+    background-color: #e74c3c;
+    color: white;
+}
+
+#tekst {
+    font-weight: bold;
+    font-size: 100px:
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p {
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
